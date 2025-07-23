@@ -5,7 +5,7 @@
 - **Blog Post URL:** 
 
 
-# Predicting Tumor Type (Benign vs. Malignant) Using Diagnostic Dat
+# Predicting Tumor Type (Benign vs. Malignant) Using Diagnostic Data
 
 ## Overview
 This project focuses on building machine learning models to classify breast tumors as **benign** or **malignant** based on diagnostic measurements. The goal is to support clinical decision-making by developing accurate, interpretable models that can assist medical professionals in early detection and treatment planning.
